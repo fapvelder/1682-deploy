@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3eee0a19.css",
+    "main.js": "/static/js/main.42f37b3f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/paypaltrans.png": "/static/media/paypaltrans.4fb8d21a585f5a527008.png",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
+    "static/media/banner.png": "/static/media/banner.a359cf199d907e8563b2.png",
+    "static/media/fullPaypalTrans.png": "/static/media/fullPaypalTrans.88743b7d0c847e5c4c15.png",
+    "static/media/giftcards.png": "/static/media/giftcards.600933953495f7b89988.png",
+    "static/media/pending.png": "/static/media/pending.26dddcb2ffa0c6193deb.png",
+    "static/media/movie.jpg": "/static/media/movie.c18389809b413bd24a15.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.ab0db9f02b7307b529ec.jpg",
+    "static/media/games.png": "/static/media/games.e372bbe5f24ae0332393.png",
+    "static/media/paypal.jpg": "/static/media/paypal.6becb3b69f30ed7cc8d2.jpg",
+    "static/media/vnpayTrans.png": "/static/media/vnpayTrans.689bfcd38825471f2537.png",
+    "static/media/moon.png": "/static/media/moon.8129ab9835404e1ce67b.png",
+    "static/media/ingame.png": "/static/media/ingame.1918220fc2663afb9053.png",
+    "static/media/logo-icon.png": "/static/media/logo-icon.7bf1a1d317b43f61cfee.png",
+    "static/media/sun.png": "/static/media/sun.6d48da504f4816188c8d.png",
+    "static/media/darkLogoName.png": "/static/media/darkLogoName.ac1adac5eefed349a441.png",
+    "static/media/logoName.png": "/static/media/logoName.3a3bcb7fc2807d16ffd6.png",
+    "static/media/us.png": "/static/media/us.348322a7eb6fa906d005.png",
+    "static/media/chat.png": "/static/media/chat.5dd0968617bc2ebb4f70.png",
+    "index.html": "/index.html",
+    "main.3eee0a19.css.map": "/static/css/main.3eee0a19.css.map",
+    "main.42f37b3f.js.map": "/static/js/main.42f37b3f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eee0a19.css",
+    "static/js/main.42f37b3f.js"
+  ]
+}
