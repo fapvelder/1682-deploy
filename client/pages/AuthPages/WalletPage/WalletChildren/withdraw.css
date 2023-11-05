@@ -1,0 +1,32 @@
+.withdraw .customSection {
+  padding: 10px;
+}
+img.payoutChoices {
+  width: 75px;
+  height: 75px;
+}
+.withdrawFee {
+  padding: 10px;
+  border: 1px solid var(--border-color);
+}
+.customWithdrawFee {
+  align-items: center;
+  height: 40px;
+}
+
+.inputGroupAppend.getCode {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid var(--border-color);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-left: -1px;
+  padding: 0 10px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.inputGroupAppend.getCode.visible {
+  opacity: 1;
+}

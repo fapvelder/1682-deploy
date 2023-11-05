@@ -1,0 +1,33 @@
+body {
+  height: 100vh !important;
+}
+.carousel {
+  position: relative;
+}
+
+.carousel-image {
+  width: 100vw;
+  height: auto;
+}
+
+.carousel-caption {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  /* top: 50%;
+  left: 50%; */
+  text-align: center;
+  color: #fff;
+  z-index: 1;
+}
+
+ul.slick-dots {
+  background: none;
+}
+.content {
+  display: flex;
+  justify-content: start;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}

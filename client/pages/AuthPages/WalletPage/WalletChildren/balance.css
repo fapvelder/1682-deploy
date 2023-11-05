@@ -1,0 +1,11 @@
+.balanceContainer {
+  padding: 10px;
+  font-size: 20px;
+  width: 300px;
+  border: 1px solid var(--border-color);
+}
+.customContainer {
+  width: 100%;
+  border: 1px solid var(--border-color);
+  padding: 10px;
+}

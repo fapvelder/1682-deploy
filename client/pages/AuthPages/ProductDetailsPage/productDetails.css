@@ -1,0 +1,107 @@
+@import "../../../component/Navigation/navigation.css";
+.generalContainer {
+  margin-top: 25px !important;
+}
+.general {
+  border: 1px solid var(--border-color);
+  max-width: 700px;
+  margin-left: 40px;
+}
+
+/* .general img {
+  margin-top: 15px;
+  width: 698px;
+  height: 680px;
+  object-fit: cover;
+} */
+
+.specific {
+  width: 95%;
+  height: 100%;
+  padding: 10px;
+}
+.general .ant-divider-horizontal {
+  background-color: var(--divider-color);
+  width: 95%;
+  min-width: 95%;
+  margin: auto;
+  margin-left: 0;
+}
+.priceItem {
+  display: flex;
+  justify-content: space-between;
+}
+.buyBtn {
+  display: flex;
+  justify-content: center;
+}
+.buyBtn button {
+  width: 300px;
+  height: 55px;
+  font-size: 25px;
+}
+.itemDesc {
+  margin-top: 50px;
+  font-size: 18px;
+}
+.specificDetails {
+  margin-top: 15px;
+
+  width: 100%;
+  height: 100%;
+  border: 1px solid var(--border-color);
+}
+.detailsRow {
+  border-bottom: 1px solid grey;
+  margin-left: 0;
+  padding: 10px;
+}
+.reportBtn {
+  margin-top: 10px;
+}
+.fa-flag {
+  color: rgb(146, 12, 12);
+}
+.listComments {
+  width: 100%;
+  height: 130px;
+  border: 1px solid var(--border-color);
+  position: relative;
+}
+.listComments p {
+  margin-top: 5px;
+  height: 15px;
+}
+.imageComment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 160px;
+  height: 100%;
+}
+.imageComment img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.comment {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--border-color);
+  width: 100%;
+  padding: 10px;
+  background-color: #5c5c5c;
+}
+.comment .ant-input {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.comment .ant-input::placeholder {
+  color: #333333;
+}
+.comment button {
+  border-radius: 0;
+  background-color: #333333;
+  color: white;
+}

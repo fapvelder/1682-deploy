@@ -1,0 +1,20 @@
+@import "../../../component/Navigation/navigation.css";
+.ant-table-cell {
+  text-align: start;
+}
+
+.ant-table-wrapper .ant-table-thead > tr > th {
+  background-color: var(--background-table-head);
+  color: var(--text-color-table);
+}
+.ant-table-tbody {
+  background-color: var(--background-table-body);
+  color: var(--text-color-table);
+}
+.ant-table-tbody > tr.ant-table-row:hover > td {
+  background-color: var(--background-table-body) !important;
+}
+.tableButton {
+  color: var(--text-color-table);
+  text-decoration: none !important;
+}

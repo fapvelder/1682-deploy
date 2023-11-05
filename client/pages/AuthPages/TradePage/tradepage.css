@@ -1,0 +1,98 @@
+@import url("../../../component/Navigation/navigation.css");
+.custom-panel-header {
+  display: flex;
+  justify-content: space-between;
+}
+.you-offer {
+}
+.you-get {
+}
+.item-filter {
+  padding-top: 5px;
+}
+.item-choose {
+  height: 20vh;
+}
+.radius {
+  border-radius: 5px;
+}
+.inventory-trade {
+  padding: 10px;
+  height: 45vh;
+  overflow: auto;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: #888888 #f4f4f4;
+}
+.inventory-trade::-webkit-scrollbar {
+  width: 3px; /* Width of the scrollbar */
+}
+
+.inventory-trade::-webkit-scrollbar-track {
+  background-color: #f4f4f4; /* Color of the track */
+}
+
+.inventory-trade::-webkit-scrollbar-thumb {
+  background-color: #888888; /* Color of the scrollbar thumb */
+  border-radius: 1px; /* Rounded corners of the thumb */
+}
+.search-inventory {
+  height: 20px;
+  width: 35%;
+}
+.search-icon {
+}
+.display-start {
+  padding-top: 1px;
+  display: flex;
+  justify-content: start;
+}
+.offer {
+  padding: 10px;
+  height: 20vh;
+  color: white;
+  overflow: auto;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: #888888 #f4f4f4;
+}
+.offer::-webkit-scrollbar {
+  width: 3px; /* Width of the scrollbar */
+}
+
+.offer::-webkit-scrollbar-track {
+  background-color: #f4f4f4; /* Color of the track */
+}
+
+.offer::-webkit-scrollbar-thumb {
+  background-color: #888888; /* Color of the scrollbar thumb */
+  border-radius: 1px; /* Rounded corners of the thumb */
+}
+.adminOffer {
+  height: 20vh;
+  overflow: auto;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: #888888 #f4f4f4;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.spin:hover {
+  animation: spin 0.3s;
+}
+.custom-panel-header {
+  color: var(--text-color);
+}
+.text {
+  color: var(--text-color);
+}
+.background-cs-item {
+  background-color: var(--cs-color);
+}

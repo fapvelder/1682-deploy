@@ -1,0 +1,80 @@
+@import "../../../../component/Navigation/navigation.css";
+.specific-item {
+  background: url(../../../../component/img/item_background.jpg);
+  width: 110px;
+  margin: auto;
+  height: 110px;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+}
+
+.specific-item img {
+  width: 75px;
+  height: 75px;
+  margin-top: -15%;
+}
+.background-item {
+  background: url(../../../../component/img/item_background.jpg);
+  width: 200px;
+  margin: auto;
+  height: 200px;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+}
+.selectSkin {
+  width: 100%;
+  height: 100%;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--box-shadow-color);
+  border-radius: 10px;
+  padding: 10px;
+  background-color: var(--background-color-outside);
+}
+.inventorySection {
+  border: 1px solid var(--border-color);
+  height: 100%;
+  width: 110%;
+  padding-bottom: 50px;
+  margin-top: 30px !important;
+}
+.skinSelectSection {
+  border: 1px solid var(--border-color);
+  height: 100%;
+  margin-top: 30px !important;
+}
+.inventorySection h3,
+.skinSelectSection h3 {
+  margin: -20px 10px 10px 0;
+  position: relative;
+  display: block;
+  padding: 0 20px;
+  width: auto;
+}
+.inventorySection h3 span,
+.skinSelectSection h3 span {
+  background-color: var(--background-color-outside);
+}
+.skinSelectSection .ant-divider-horizontal {
+  background-color: var(--divider-color);
+  width: 90%;
+  min-width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+.chooseSection {
+  padding: 7px;
+}
+.chooseItem {
+  background: url(../../../../component/img/item_background.jpg);
+  width: 100%;
+  height: 300px;
+  margin: auto !important;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+}
+.chooseItem img {
+  width: 270px;
+  height: 270px;
+  margin-top: 5%;
+  margin-left: 5%;
+}

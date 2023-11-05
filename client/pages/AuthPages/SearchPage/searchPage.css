@@ -1,0 +1,25 @@
+@import "../../../component/Navigation/navigation.css";
+.ant-pagination .ant-pagination-item-active {
+  border-color: orange !important;
+  color: orange !important;
+}
+/* .ant-pagination-item {
+  background-color: #3a3a3a !important;
+  color: #fff !important;
+  border-color: #ddd !important;
+} */
+.ant-pagination-item {
+  background-color: var(--background-pagination) !important;
+  color: var(--color-pagination) !important;
+  border-color: var(--border-color) !important;
+}
+.ant-icon.ant-icon-left {
+  color: red !important;
+  background-color: red !important;
+}
+.ant-pagination-disabled .ant-pagination-item-link {
+  /* color: red !important; */
+}
+.ant-pagination .ant-pagination-next .ant-pagination-item-link {
+  color: var(--color-pagination) !important;
+}
