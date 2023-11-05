@@ -1,0 +1,125 @@
+@import "../Navigation/navigation.css";
+.mainChatContainer {
+  /* flex: 2.9; */
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.userProfile {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+.chatUserProfile {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 10px;
+  margin-top: -25px;
+}
+.msgContainer {
+  height: 80vh;
+  overflow: auto;
+  overflow-y: scroll;
+  scrollbar-width: thin !important;
+  scrollbar-color: #888888 #f4f4f4 !important;
+  padding-top: 15px;
+}
+
+.msgContainer::-webkit-scrollbar {
+  width: 4px;
+  opacity: 0; /* Hide the scrollbar */
+  transition: opacity 0.3s; /* Add transition effect for smooth hiding */
+}
+.msgContainer:hover::-webkit-scrollbar {
+  opacity: 1; /* Show the scrollbar on hover */
+}
+.msgContainer::-webkit-scrollbar-track {
+  background: #f4f4f4;
+}
+
+.msgContainer::-webkit-scrollbar-thumb {
+  background-color: #888888;
+  /* border-radius: 4px; */
+}
+
+.msgInput {
+  margin-left: 5px;
+  width: 93%;
+  padding: 10px;
+  border: none;
+  margin-top: 0px;
+  color: black;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.msgSenderContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  margin-top: 0px;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.yourMsg {
+  display: flex;
+  justify-content: end;
+  border-radius: 10px;
+  width: 50%;
+  margin-left: 47.5%;
+}
+.msg {
+  display: flex;
+  align-items: center;
+
+  margin-left: 30px;
+  max-width: 45%;
+}
+.msgTxt {
+  background-color: var(--background-color-chat);
+  width: 100%;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: -10px;
+  text-align: start;
+  margin-left: 5px;
+  word-break: break-word;
+}
+.topMsgContainer {
+  display: flex;
+  /* margin-left: 30px; */
+  margin-top: 10px;
+
+  /* background-color: var(--color-mode); */
+  border-bottom: 1px solid var(--border-color);
+  /* background-color:   ; */
+  /* width: 70%; */
+  height: 100% !important;
+  padding: 5px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.emoji {
+  margin-left: -45px;
+  margin-top: 4px;
+  font-size: 25px;
+}
+.emojiPickerContainer {
+  position: absolute;
+  z-index: 1;
+  bottom: 50px;
+  right: 8%;
+}
+.sendButton {
+  margin-top: 0;
+  font-size: 25px;
+
+  margin-left: 35px;
+}

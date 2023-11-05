@@ -1,0 +1,330 @@
+{
+  "All": "All",
+
+  "nav_languages": {
+    "icon": "us",
+    "label": "English"
+  },
+  "nav_theme": {
+    "dark": "Dark theme",
+    "light": "Light theme"
+  },
+  "nav_game_items": "Game Items",
+  "nav_gift_cards": "Gift Cards",
+  "nav_more": "More",
+  "nav_profile": {
+    "Selling": "Start Selling",
+    "Messaging": "Messaging",
+    "Notifications": "Notifications",
+    "Wallet": "Wallet",
+    "Listing": "Listings",
+    "Purchases": "Purchases",
+    "Settings": "Settings",
+    "Signout": "Sign out"
+  },
+  "all": "All",
+  "popular": "Popular",
+  "trending": "Trending",
+  "search": "Search...",
+  "gaming_gift_cards": "Gaming Gift Cards",
+  "movies": "Movies",
+  "games": "Games",
+  "game_items": "Game Items",
+  "gift_cards": "Gift Cards",
+  "popular_categories": "Popular Categories",
+  "footer": {
+    "join_our_community": "Join Our Community",
+    "sell": {
+      "sell": "Sell",
+      "selling_questions": "Selling Questions",
+      "how_to_sell": "How to Sell",
+      "sell_ingame_items": "Sell In-Game Items",
+      "sell_video_games": "Sell Video Games",
+      "sell_gift_cards": "Sell Gift Cards"
+    },
+    "buy": {
+      "buy": "Buy",
+      "buying_questions": "Buying Questions",
+      "how_to_buy": "How to Buy",
+      "buy_ingame_items": "Buy In-Game Items",
+      "buy_video_games": "Buy Video Games",
+      "buy_gift_cards": "Buy Gift Cards"
+    },
+    "faq": {
+      "faq": "FAQ",
+
+      "how_does_gamebay_work": "How does GameBay work?",
+      "what_is_gamebay_guarantee": "What is GameBay guarantee?",
+      "how_does_gamebay_protect_sellers": "How does GameBay protect sellers?"
+    },
+    "resources": {
+      "resources": "Resources",
+      "help_center": "Help Center",
+      "return_policy": "Return Policy",
+      "contact_us": "Contact Us"
+    },
+    "about_us": "About Us",
+    "term_of_use": "Term of Use",
+    "privacy_policy": "Privacy Policy",
+    "copyright": "Copyright © 2023 GameBay. All rights reserved."
+  },
+  "settings": {
+    "account": {
+      "personal_information": "Personal Information",
+      "name": "Name",
+      "public_profile": "Public Profile",
+
+      "phone_number": "Phone Number",
+      "avatar": "Avatar",
+      "display_as": "Display As",
+      "bio": "Profile Description",
+      "languages": {
+        "language": "Language",
+        "proficiency": "Proficiency"
+      },
+      "steam_connect": "Steam Connect",
+      "steam_desc": "Connect your Steam account with GameBay is required for selling skins.",
+      "btn": {
+        "add": "Add",
+        "update": "Update Trade URL",
+        "upload": "Upload Avatar"
+      }
+    },
+
+    "payment": {
+      "payment_method": "Payment Method",
+      "addresses": {
+        "addresses": "Addresses",
+        "add_new": "Add new address",
+        "full_name": "Full Name",
+        "street_address": "Street Address ",
+        "city": "City",
+        "zip": "Zip or Postal Code",
+        "state": "State or Province",
+        "country": "Country"
+      }
+    }
+  },
+  "title": "GameBay | Buy & Sell Games, Gift Cards & More",
+  "caption1": "Welcome to GameBay",
+  "caption2": "Join our subscription",
+  "search_product": "Search Product",
+  "filter_by": "Filter By",
+  "clear_all": "Clear All",
+  "category": "Category",
+  "sub_category": "Sub-Category",
+  "any": "Any",
+  "on_sale": "On Sale",
+  "sold": "Sold",
+  "available": "Available",
+  "custom_price": "Custom Price",
+  "min": "Min",
+  "max": "Max",
+  "no_product": {
+    "no1": "We don't find any products you search for...",
+    "no2": "Please try another products"
+  },
+  "start_selling": {
+    "title": "Start Selling",
+    "select_category": "Select Category",
+    "select": "Select",
+    "warn_1": "By listing on GameBay, you confirm that you legally own the item(s) or that you have the full rights to sell the item(s). You are responsible for verifying what rights you have, and for adhering to all applicable terms and conditions with respect to the respective game(s), game publisher(s) or platform provider(s).",
+    "warn_2": "Selling prohibited and counterfeit items are against the law, and we do not allow such items on GameBay.",
+    "next": "Next",
+    "items": {
+      "your_inventory": "Your inventory",
+      "refresh_inventory": "Refresh Inventory",
+      "skin_sell": "Skin to sell",
+      "items_selected": "item(s) selected",
+      "continue": "Continue"
+    },
+    "listings": {
+      "placeholder_title": "Game title or listing title",
+      "placeholder_desc": "Item description or Listing details",
+      "screenshots": "Screenshots / Photos",
+      "descPhoto": "Your screenshots should clearly show what you are selling. 640x640 is recommended.",
+      "description": "Description",
+      "desc": "The listing title and description must be accurate and as informative as possible (no random or lottery-like listing). Misleading description is a violation of our terms of service.      ",
+      "category": "Category",
+      "title": "Title",
+      "platform": "Platform",
+      "delivery_method": "Delivery Method",
+      "automatic_bot": "Automatic delivery via Bot",
+      "automatic": "Automatic transfer",
+      "transfer": "I will coordinate with buyer to transfer.",
+      "days": "days",
+      "price": "Price",
+      "suggested_price": "Suggested Price",
+      "descPrice": "Our marketplace is for items priced between $1 and $2500",
+      "visibility": "Visibility",
+      "public": "Public",
+      "Unlisted": "Unlisted",
+      "descVisi": "Public listings can be seen and searched by anyone using GameBay. Unlisted listings can be seen and shared by anyone with the link.",
+      "estimate": "Estimate Fees & Proceeds",
+      "digital_fee": "Digital transfer fee",
+      "commission_fee": "Commission Fee",
+      "you_make": "You make",
+      "done": "Done"
+    }
+  },
+  "messaging": {},
+  "notifications": {},
+  "wallet": {
+    "balance": {
+      "title": "Balance",
+      "your_balance": "Your Balance",
+      "available": "Available",
+      "pending": "Pending"
+    },
+    "add_funds": {
+      "title": "Add Funds",
+      "funding_amount": "Funding Amount",
+      "funding_desc": "Funding amount must be between $5.00 and $2000.00",
+      "check": "I understand that funds added to my wallet can only be used for purchases and cannot be withdrawn, refunded, or paid out.",
+      "recent_transactions": "Recent Transactions",
+      "continue": "Continue",
+      "time": "Time",
+      "method": "Method",
+      "amount": "Amount",
+      "status": "Status",
+      "success": "Success",
+      "fail": "Fail",
+      "fund_order": "Add funds order",
+      "processing_fee": "Processing fee",
+      "total_cost": "Total cost",
+      "total_charge": "Total charge",
+      "pay_with": "Pay with",
+      "note": "Note: 1$ is equivalent with 24.000 VNĐ",
+      "vnpay": "Pay by Bank with VNPay"
+    },
+    "withdraw": {
+      "title": "Withdraw",
+      "payout": "Available Cash for Payout",
+      "payout_choices": "Payout Choices",
+      "payout_desc": "This payout option is only available when the balance is $5.00 or higher.",
+      "email_received": "Email Received",
+      "secret": "Secret",
+      "get_code": "Get Code",
+      "withdrawal_fee": "Withdrawal Fee",
+      "will_receive": "What you will receive",
+      "remaining": "Remaining balance",
+      "confirm": "Confirm payout",
+      "fee_rate": "Fee rate",
+      "not_available": "Not Available"
+    }
+  },
+
+  "listings": {
+    "title": "Listings",
+    "all": "All",
+    "completed": "Completed",
+    "sold": "Sold",
+    "on_sale": "On Sale",
+    "bought": "Bought from",
+    "sold_by": "Sold by",
+    "no_products": "No products"
+  },
+  "purchases": {
+    "title": "Purchases",
+    "all": "All",
+    "completed": "Completed",
+    "pending": "Pending",
+    "cancelled": "Cancelled",
+    "sold_by": "Sold by",
+    "bought": "Bought from",
+    "no_purchases": "You have no purchases yet"
+  },
+  "product_details": {
+    "comments": "Comments",
+    "desc": "Caution: Comments are written by the marketplace users. GameBay will never write comments on listings.",
+    "buy": "Buy",
+    "sold": "Sold",
+    "edit": "Edit",
+    "send": "Send"
+  },
+  "user_details": {
+    "contact": "Contact",
+    "since": "Member since ",
+    "seller_rating": "Seller Rating",
+    "languages": "Languages",
+    "ratings": "Ratings",
+    "not_available": "Not Available"
+  },
+  "setting": {},
+  "checkout": {
+    "title": "Checkout ",
+    "order": "Order",
+    "wallet": "Wallet",
+    "cash_balance": "Cash Balance",
+    "price": "Price",
+    "after_purchasing": "Balance After Purchasing",
+    "place_order": "Place Order"
+  },
+  "specific": {
+    "category": "Category",
+    "sub_category": "Sub-Category",
+    "delivery_method": "Delivery Method",
+    "day": "day(s)",
+    "region": "Region restriction",
+    "returns": "Returns",
+    "no_return": "No return. View our return policy",
+    "accept": "Accept currency",
+    "protection": "Protection",
+    "desc": "You're protected under the GameBay Guarantee. Get the item as described or your money back."
+  },
+  "order_details": {
+    "title": "Order Details",
+    "sold": "Sold by:",
+    "transaction": "Transaction is",
+    "start": "Start Bot Trade",
+    "click": "Click here to start bot trade",
+    "accepted": "You have accepted the trade offer",
+    "code": "Key or Code",
+    "trade_offer": "Buyer Steam Trade Offer URL",
+    "open": "Open it",
+    "wait": "Wait for seller to send item(s)",
+    "must": "Seller must send the item ",
+    "have_sent": "I have sent the item",
+    "send": "Send Code",
+    "seller_sent": "Seller has sent the item",
+    "check": "Please check your trade offer",
+    "order": "OrderID",
+    "price": "Price",
+    "rating": "Please help us rating how was his/her service.",
+    "feedback": "Give us feedback about the seller:",
+    "optional": "Optional feedback",
+    "send_feedback": "Send Feedback",
+    "cancel": "Cancel",
+    "complete": "Complete",
+    "send_code": "Send the digital or key code",
+    "good": "Good",
+    "text_good": "Thank you for your positive feedback!",
+    "neutral": "Neutral",
+    "text_neutral": "Thank you for your feedback.",
+    "bad": "Bad",
+    "text_bad": "We apologize for any inconvenience. Please provide more details about your experience."
+  },
+  "trade_item": {
+    "title": "Trade Item",
+    "balance": "Balance",
+    "you_offer": "You offer",
+    "you_get": "You get",
+    "offer_desc": "What you are offering",
+    "get_desc": "Explore and choose the best skins",
+    "search": "Search...",
+    "type": "Type",
+    "knives": "Knives",
+    "gloves": "Gloves",
+    "pistols": "Pistols",
+    "smgs": "Submachine Guns",
+    "assault_rifles": "Assault Rifles",
+    "shotguns": "Shotguns",
+    "sniper_rifles": "Sniper Rifles",
+    "machine_guns": "Machine guns",
+    "keys": "Keys",
+    "exterior": "Exterior",
+    "price": "Price",
+    "trade": "Trade"
+  },
+  "sign_out": "Sign out"
+}

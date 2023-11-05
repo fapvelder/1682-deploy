@@ -1,0 +1,26 @@
+.title-container {
+  display: flex;
+  align-items: flex-start;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 3.5em;
+  word-wrap: nowrap;
+  height: 3.5em;
+}
+.title {
+  margin: 0;
+}
+.backgroundProduct {
+  background: url(../img/item_background.jpg) !important;
+  width: 248px !important;
+  height: 250px !important;
+}
+
+.productCard {
+  padding: 5px;
+  width: 260px !important;
+  height: 100% !important;
+  border-radius: 10px;
+  border: 1px solid var(--border-color);
+  background-color: var(--background-color-outside);
+}

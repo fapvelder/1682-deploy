@@ -1,0 +1,43 @@
+@import "../Navigation/navigation.css";
+
+.icon {
+  font-size: 32px;
+  margin-right: 10px;
+}
+.footer {
+  /* margin-top: 50px; */
+  border-top: 1px ridge var(--text-color);
+  /* background-color: var(--color-mode);  */
+  background: var(--footer-color);
+}
+.footer ul li {
+  color: grey;
+  font-size: 12px;
+  display: flex;
+  justify-content: start;
+  text-align: start;
+}
+.footer .ant-divider-horizontal {
+  background-color: grey;
+  width: 80%;
+  min-width: 80%;
+  margin: auto;
+}
+.copyright {
+  margin-top: 10px;
+}
+
+.logo {
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Dark theme */
+.dark .logo {
+  opacity: 0.5;
+}
+
+/* Light theme */
+.light .logo {
+  opacity: 0.8;
+}

@@ -1,0 +1,326 @@
+{
+  "All": "Tất cả",
+  "nav_languages": {
+    "icon": "vi",
+    "label": "Vietnamese"
+  },
+  "nav_theme": {
+    "dark": "Nền tối",
+    "light": "Nền sáng"
+  },
+  "nav_game_items": "Vật Phẩm Ảo",
+  "nav_gift_cards": "Thẻ Quà Tặng",
+  "nav_more": "Thêm",
+  "nav_profile": {
+    "Selling": "Bán đồ",
+    "Messaging": "Nhắn tin",
+    "Notifications": "Thông báo",
+    "Wallet": "Ví",
+    "Listing": "Danh sách bán",
+    "Purchases": "Danh sách mua",
+    "Settings": "Cài đặt",
+    "Signout": "Đăng xuất"
+  },
+  "all": "Tất cả",
+  "popular": "Phổ biến",
+  "trending": "Xu hướng",
+  "search": "Tìm kiếm...",
+  "gaming_gift_cards": "Thẻ quà tặng trò chơi",
+  "movies": "Phim",
+  "games": "Trò chơi",
+  "game_items": "Vật phẩm ảo",
+  "gift_cards": "Thẻ quà tặng",
+  "popular_categories": "Danh mục phổ biến",
+  "footer": {
+    "join_our_community": "Tham gia cộng đồng",
+    "sell": {
+      "sell": "Bán",
+      "selling_questions": "Cách bán hàng?",
+      "how_to_sell": "Làm thế nào để bán",
+      "sell_ingame_items": "Bán vật phẩm ảo",
+      "sell_video_games": "Bán trò chơi điện tử",
+      "sell_gift_cards": "Bán thẻ quà tặng"
+    },
+    "buy": {
+      "buy": "Mua",
+      "buying_questions": "Cách mua hàng?",
+      "how_to_buy": "Làm thế nào để Mua",
+      "buy_ingame_items": "Mua vật phẩm ảo",
+      "buy_video_games": "Mua trò chơi điện tử",
+      "buy_gift_cards": "Mua thẻ quà tặng"
+    },
+    "faq": {
+      "faq": "Câu hỏi thường gặp",
+      "how_does_gamebay_work": "Cách hoạt động của GameBay?",
+      "what_is_gamebay_guarantee": "Bảo đảm từ GameBay",
+      "how_does_gamebay_protect_sellers": "Làm cách nào GameBay bảo vệ người bán?"
+    },
+    "resources": {
+      "resources": "Thông tin hữu ích",
+      "help_center": "Trung tâm trợ giúp",
+      "return_policy": "Chính sách đổi trả",
+      "contact_us": "Liên hệ chúng tôi"
+    },
+    "about_us": "Về chúng tôi",
+    "term_of_use": "Điều khoản sử dụng",
+    "privacy_policy": "Chính sách bảo mật",
+    "copyright": "Bản quyền 2023 thuộc về GameBay. Đã đăng ký bản quyền."
+  },
+  "settings": {
+    "account": {
+      "personal_information": "Thông tin cá nhân",
+      "name": "Tên",
+      "public_profile": "Hồ sơ công khai",
+      "phone_number": "Số điện thoại",
+      "avatar": "Ảnh đại diện",
+      "display_as": "Tên hiển thị",
+      "bio": "Mô tả bản thân",
+      "languages": {
+        "language": "Ngôn ngữ",
+        "proficiency": "Độ thông thạo"
+      },
+      "steam_connect": "Kết nối với Steam",
+      "steam_desc": "Bạn phải kết nối tài khoản Steam để bán vật phẩm ảo",
+      "btn": {
+        "add": "Thêm vào",
+        "update": "Cập nhật Trade URL",
+        "upload": "Cập nhật ảnh"
+      }
+    },
+    "payment": {
+      "payment_method": "Phương thức thanh toán",
+      "addresses": {
+        "addresses": "Địa chỉ",
+        "add_new": "Thêm địa chỉ mới",
+        "full_name": "Họ và Tên",
+        "street_address": "Địa chỉ ",
+        "city": "Thành phố",
+        "zip": "Mã vùng hoặc mã bưu chính",
+        "state": "Tỉnh",
+        "country": "Quốc gia"
+      }
+    }
+  },
+  "title": "GameBay | Mua & Bán Trò Chơi, Thẻ Quà Tặng & Hơn Thế Nữa",
+  "caption1": "Chào mừng đến với GameBay",
+  "caption2": "Tham gia gói thành viên của chúng tôi",
+  "search_product": "Tìm kiếm sản phẩm",
+  "filter_by": "Lọc sản phẩm",
+  "clear_all": "Xóa tất cả",
+  "category": "Thể loại",
+  "sub_category": "Nền tảng",
+  "any": "Bất kì",
+  "on_sale": "Đang bán",
+  "sold": "Đã bán",
+  "available": "Có sẵn",
+  "custom_price": "Tùy chỉnh giá cả",
+  "min": "Tối thiểu",
+  "max": "Tối đa",
+  "no_product": {
+    "no1": "Chúng tôi không tìm được sản phẩm bạn tìm kiếm...",
+    "no2": "Tìm những sản phẩm khác"
+  },
+  "start_selling": {
+    "title": "Bắt đầu bán",
+    "select_category": "Chọn danh mục",
+    "select": "Chọn",
+    "warn_1": "Bằng cách đưa sản phẩm trên GameBay, bạn xác nhận rằng bạn sỡ hữu (các) mặt hàng một cách hợp pháp hoặc bạn có toàn quyền bán (các) mặt hàng đó. Bạn chịu trách nhiệm xác minh những quyền mà bạn có và tuân thủ tất cả các điều khoản và điều kiện đối với (các) trò chơi, (các) nhà phát hành trò chơi hoặc (các) nền tảng tương ứng.",
+    "warn_2": "Bán các mặt hàng bị cấm và hàng giả là vi phạm pháp luật và chúng tôi không cho phép những mặt hàng đó trên GameBay.",
+    "next": "Tiếp tục",
+    "items": {
+      "your_inventory": "Túi đồ của bạn",
+      "refresh_inventory": "Làm mới túi đồ",
+      "skin_sell": "Sản phẩm được bán",
+      "items_selected": "sản phẩm được chọn",
+      "continue": "Tiếp tục"
+    },
+    "listings": {
+      "placeholder_title": "Tên sản phẩm",
+      "placeholder_desc": "Miêu tả sản phẩm",
+      "screenshots": "Hình ảnh",
+      "descPhoto": "Ảnh của bạn sẽ miêu tả rõ ràng những gì bạn đang bán. Bạn nên dùng 640x640",
+      "description": "Miêu tả",
+      "desc": "Tiêu đề và mô tả của danh sách phải chính xác và càng nhiều thông tin càng tốt (không có danh sách ngẫu nhiên hoặc giống xổ số). Mô tả sai lệch là vi phạm điều khoản dịch vụ của chúng tôi. ",
+      "category": "Danh mục",
+      "title": "Tiêu đề",
+      "platform": "Nền tảng",
+      "delivery_method": "Phương thức gửi",
+      "automatic_bot": "Gửi tự động qua Bot",
+      "automatic": "Gửi tự động",
+      "transfer": "Tôi sẽ chuyển thẳng đến người mua",
+      "days": "ngày",
+      "price": "Giá",
+      "suggested_price": "Giá đề xuất",
+      "descPrice": "Chúng tôi cho phép bán các sản phẩm từ 1$ đến 2500$",
+      "visibility": "Hiển thị",
+      "public": "Công khai",
+      "Unlisted": "Chưa niêm yết",
+      "descVisi": "Bất kỳ ai sử dụng GameBay đều có thể xem và tìm kiếm các danh sách công khai. Danh sách không công khai có thể được xem và chia sẻ bởi bất kỳ ai có liên kết.",
+      "estimate": "Ước tính phí",
+      "digital_fee": "Phí nền tảng",
+      "commission_fee": "Phí hoa hồng",
+      "you_make": "Bạn nhận được",
+      "done": "Hoàn tất"
+    }
+  },
+  "messaging": {},
+  "notifications": {},
+  "wallet": {
+    "balance": {
+      "title": "Số dư",
+      "your_balance": "Số dư của bạn",
+      "available": "Số dư sẵn có",
+      "pending": "Số dư đóng băng"
+    },
+    "add_funds": {
+      "title": "Nạp tiền",
+      "funding_amount": "Số tiền nạp",
+      "funding_desc": "Số tiền nạp phải từ $5.00 đến $2000.00",
+      "check": "Tôi hiểu rằng số tiền được nạp vào ví chỉ có thể sử dụng để mua sản phẩm, và không thể rút tiền, hoàn trả.",
+      "recent_transactions": "Giao dịch gần đây",
+      "continue": "Tiếp tục",
+      "time": "Thời gian",
+      "method": "Phương thức thanh toán",
+      "amount": "Số tiền",
+      "status": "Trạng thái",
+      "success": "Thành công",
+      "fail": "Thất bại",
+      "fund_order": "Hóa đơn nạp tiền",
+      "processing_fee": "Phí xử lý",
+      "total_cost": "Tổng số tiền cần phải trả",
+      "total_charge": "Tổng tiền phải trả",
+      "pay_with": "Thanh toán với",
+      "note": "Lưu ý: 1$ tương đương với 24.000 VNĐ",
+      "vnpay": "Thanh toán bằng ngân hàng với VNPay"
+    },
+    "withdraw": {
+      "title": "Rút tiền",
+      "payout": "Số tiền có thể thanh toán",
+      "payout_choices": "Lựa chọn thanh toán",
+      "payout_desc": "Tùy chọn thanh toán này chỉ khả dụng khi số dư từ $5,00 trở lên.",
+      "email_received": "Email Nhận Tiền",
+      "secret": "Mã bí mật",
+      "get_code": "Lấy mã",
+      "withdrawal_fee": "Phí rút tiền",
+      "will_receive": "Bạn sẽ nhận được",
+      "remaining": "Số tiền còn lại",
+      "confirm": "Xác nhận rút tiền",
+      "fee_rate": "Tỷ lệ phí",
+      "not_available": "Không có sẵn"
+    }
+  },
+
+  "listings": {
+    "title": "Sản phẩm niêm yết",
+    "all": "Tất cả",
+    "completed": "Hoàn tất",
+    "sold": "Đã bán",
+    "on_sale": "Đang bán",
+    "bought": "Mua từ ",
+    "sold_by": "Mua bởi",
+    "no_products": "Không có sản phẩm"
+  },
+  "purchases": {
+    "title": "Sản phẩm đã mua",
+    "all": "Tất cả",
+    "completed": "Hoàn tất",
+    "pending": "Đang chờ",
+    "cancelled": "Đã hủy",
+    "sold_by": "Mua bởi",
+    "bought": "Mua từ ",
+    "no_purchases": "Bạn chưa mua sản phẩm nào"
+  },
+  "product_details": {
+    "comments": "Bình luận",
+    "desc": "Lưu ý: Bình luận được viết bởi người dùng website. GameBay sẽ không bao giờ bình luận trên sản phẩm niêm yết.",
+    "buy": "Mua",
+    "sold": "Đã bán",
+    "edit": "Chỉnh sửa",
+    "send": "Gửi"
+  },
+  "user_details": {
+    "contact": "Liên hệ",
+    "since": "Thành viên từ ",
+    "seller_rating": "Đánh giá người bán",
+    "languages": "Ngôn ngữ",
+    "ratings": "Đánh giá",
+    "not_available": "Không có đánh giá"
+  },
+  "checkout": {
+    "title": "Thanh toán ",
+    "order": "Đơn hàng",
+    "wallet": "Ví tiền",
+    "cash_balance": "Số dư hiện tại",
+    "price": "Giá tiền",
+    "after_purchasing": "Số dư sau khi mua",
+    "place_order": "Đặt Hàng"
+  },
+  "specific": {
+    "category": "Danh mục",
+    "sub_category": "Danh mục phụ",
+    "delivery_method": "Phương thức giao hàng",
+    "day": "ngày",
+    "region": "Hạn chế khu vực",
+    "returns": "Hoàn trả",
+    "no_return": "Không hoàn trả. Xem chính sách hoàn trả của chúng tôi",
+    "accept": "Tiền tệ chấp nhận",
+    "protection": "Bảo đảm",
+    "desc": "Bạn được bảo vệ theo chính sách của GameBay. Nhận hàng như mô tả hoặc hoàn lại tiền"
+  },
+  "order_details": {
+    "title": "Thông tin đơn hàng",
+    "sold": "Được bán bởi:",
+    "transaction": "Giao dịch",
+    "start": "Bắt đầu giao dịch với bot",
+    "click": "Bấm vào để bắt đầu giao dịch với bot",
+    "accepted": "Bạn đã chấp nhận giao dịch",
+    "code": "Mã game",
+    "trade_offer": "URL Giao dịch Steam của người mua",
+    "open": "Mở",
+    "wait": "Đợi người bán gửi sản phẩm",
+    "must": "Người bán phải gửi sản phẩm ",
+    "have_sent": "Tôi đã gửi sản phẩm",
+    "send": "Gửi Mã",
+    "seller_sent": "Người bán đã gửi sản phẩm",
+    "check": "Hãy kiểm tra giao dịch của bạn",
+    "order": "Đơn hàng",
+    "price": "Giá",
+    "rating": "Xin hãy giúp chúng tôi đánh giá dịch vụ của anh/cô ấy.",
+    "feedback": "Cho chúng tôi nhận xét về người bán:",
+    "optional": "Nhận xét (tùy chọn)",
+    "send_feedback": "Gửi Nhận Xét",
+    "cancel": "Hủy",
+    "complete": "Hoàn Thành",
+    "send_code": "Gửi Mã",
+    "good": "Good",
+    "text_good": "Thank you for your positive feedback!",
+    "neutral": "Neutral",
+    "text_neutral": "Thank you for your feedback.",
+    "bad": "Bad",
+    "text_bad": "We apologize for any inconvenience. Please provide more details about your experience."
+  },
+  "trade_item": {
+    "title": "Giao dịch vật phẩm",
+    "balance": "Số dư",
+    "you_offer": "Bạn đề nghị",
+    "you_get": "Bạn nhận được",
+    "offer_desc": "Những món đồ bạn đề nghị",
+    "get_desc": "Khám phá và chọn vật phẩm tốt nhất",
+    "search": "Tìm kiếm...",
+    "type": "Loại",
+    "knives": "Dao",
+    "gloves": "Găng Tay",
+    "pistols": "Súng Lục",
+    "smgs": "Súng Tiểu Liên",
+    "assault_rifles": "Súng Trường",
+    "shotguns": "Súng Săn",
+    "sniper_rifles": "Súng Ngắm",
+    "machine_guns": "Súng Máy",
+    "keys": "Chìa Kkhóa",
+    "exterior": "Bề Ngoài",
+    "price": "Giá",
+    "trade": "Giao dịch"
+  },
+  "setting": {},
+  "sign_out": "Đăng xuất"
+}

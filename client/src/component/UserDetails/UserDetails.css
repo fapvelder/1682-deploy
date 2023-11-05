@@ -1,0 +1,21 @@
+@import "../Navigation/navigation.css";
+.userDetailsContainer {
+  /* width: 80% !important; */
+
+  margin: auto;
+  /* border: 1px solid var(--border-color); */
+  height: 100%;
+  margin-top: 25px;
+}
+.userDetailsContainer img {
+  margin-top: 11px;
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+}
+.userName {
+  color: var(--name-color);
+}
+.cursorPointer {
+  cursor: pointer;
+}
